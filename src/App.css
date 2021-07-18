@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.test-container {
+  padding: 4rem;
+}
+ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+  font-size: 1.2rem;
+  line-height: 2rem;
+}
+
+a {
+  text-decoration: none;
+  color: tomato;
+  font-weight: 700;
+}
+.choose-test-container {
+  padding: 4rem;
+  font-size: 1.5rem;
+}
